@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\bin\Debug\net6.0\zd_massiv.exe
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\bin\Debug\net6.0\zd_massiv.deps.json
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\bin\Debug\net6.0\zd_massiv.runtimeconfig.json
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\bin\Debug\net6.0\zd_massiv.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\bin\Debug\net6.0\ref\zd_massiv.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\bin\Debug\net6.0\zd_massiv.pdb
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\ref\zd_massiv.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.pdb
+C:\Users\79160\Desktop\homework_c#_4\zd_massiv\obj\Debug\net6.0\zd_massiv.genruntimeconfig.cache
