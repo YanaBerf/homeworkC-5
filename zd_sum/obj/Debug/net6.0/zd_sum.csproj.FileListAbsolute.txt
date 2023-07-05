@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\bin\Debug\net6.0\zd_sum.exe
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\bin\Debug\net6.0\zd_sum.deps.json
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\bin\Debug\net6.0\zd_sum.runtimeconfig.json
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\bin\Debug\net6.0\zd_sum.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\bin\Debug\net6.0\ref\zd_sum.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\bin\Debug\net6.0\zd_sum.pdb
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\ref\zd_sum.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.pdb
+C:\Users\79160\Desktop\homework_c#_4\zd_sum\obj\Debug\net6.0\zd_sum.genruntimeconfig.cache
