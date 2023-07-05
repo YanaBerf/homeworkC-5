@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\bin\Debug\net6.0\zd_pow.exe
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\bin\Debug\net6.0\zd_pow.deps.json
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\bin\Debug\net6.0\zd_pow.runtimeconfig.json
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\bin\Debug\net6.0\zd_pow.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\bin\Debug\net6.0\ref\zd_pow.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\bin\Debug\net6.0\zd_pow.pdb
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\ref\zd_pow.dll
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.pdb
+C:\Users\79160\Desktop\homework_c#_4\zd_pow\obj\Debug\net6.0\zd_pow.genruntimeconfig.cache
